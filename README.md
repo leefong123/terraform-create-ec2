@@ -1,7 +1,6 @@
-# terraform-create-ec2
-Create an ec2 instance using terraform 
+##Creatnge ec2 instance using terraform 
 
-## How to Apply Terraform
+### How to Apply Terraform
 
 ```bash
 
